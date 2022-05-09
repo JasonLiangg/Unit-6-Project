@@ -1,0 +1,71 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: black;
+}
+
+.title {
+    font-size: 20px;
+    background-color: blue;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.Lambo {
+    height: 350px;
+    margin: 10px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 30px;
+}
+.house {
+    height: 300px;
+    margin: 10px;
+}
+.clue1 {
+    height: 300px;
+    margin: 30px;
+}
+.coffin {
+    height: 300px;
+    margin: 10px;
+}
+.clue2 {
+    height: 300px;
+    margin: 10px;
+}
+.skull{
+    height: 300px;
+    margin: 10px;
+}
+.clue3{
+    height: 300px;
+    margin: 10px;
+}
